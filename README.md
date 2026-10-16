@@ -5,11 +5,11 @@ A cross-platform mobile app built with React Native (Expo) and Firebase that com
 This was my first individual project, built to learn mobile development. The interface was designed in Figma first. The original idea was larger, so I scaled it down to a working core: user accounts and cloud-saved events work, while some other features are interface prototypes that use sample data.
 
 Features
-What works
-👤 User accounts: sign up and log in with email and password using Firebase Authentication
-📅 Calendar and events: add and delete events, which are saved to Firestore and tied to the user's account
-🗓️ Monthly calendar view: browse months, with coloured dots marking days that have events
-✅ Daily task timeline: weekly date strip with colour-coded task cards
+### What Works
+* 👤 **User accounts:** Sign up and log in with email and password using Firebase Authentication.
+* 📅 **Calendar and events:** Add and delete events, which are saved to Firestore and tied to the user's account.
+* 🗓️ **Monthly calendar view:** Browse months, with coloured dots marking days that have events.
+* ✅ **Daily task timeline:** Weekly date strip with colour-coded task cards.
 Prototype features (interface and sample data only)
 📊 Expense tracking and insights: spending statistics by category, shown with sample data
 ⏰ Alarm interface: a custom reminder and routine UI that doesn't trigger real alarms
